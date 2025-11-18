@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello from Jenkins build!"
-echo "Date: $(date)"
-echo "User: $(whoami)"
+echo "Hello, Jenkins!"
+echo "Build executed at: $(date)"
+
